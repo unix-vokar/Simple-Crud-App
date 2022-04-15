@@ -1,0 +1,61 @@
+commit b02dd24e913ff735fd0a4f2cb8aa288f63aa9251
+Author: PeterRakov <prako013@uottawa.ca>
+Date:   Thu Mar 3 10:08:59 2022 -0500
+
+    Working on the README
+
+commit 8c7cf64b1683aef7d7ca4f70863e0d11464282a6
+Author: PeterRakov <prako013@uottawa.ca>
+Date:   Thu Mar 3 09:05:12 2022 -0500
+
+    Added tar file for deployment
+
+commit 82bacb0662eed2bfe83428059d44fc7861a6d5bf
+Author: PeterRakov <prako013@uottawa.ca>
+Date:   Thu Mar 3 09:01:54 2022 -0500
+
+    php server updated
+
+commit 943eb92c50d6a0f09f325b47d0d35167175678d2
+Author: PeterRakov <prako013@uottawa.ca>
+Date:   Tue Mar 1 16:31:14 2022 -0500
+
+    php server integration
+
+commit bd9711aef74577b13c30837a3cbeb5b707ce2f2d
+Author: PeterRakov <prako013@uottawa.ca>
+Date:   Tue Mar 1 16:20:30 2022 -0500
+
+    Updating contacts page -> bootstrap 4
+
+commit e58ca8d1657355af331585f389afb8b5a7d96918
+Author: PeterRakov <prako013@uottawa.ca>
+Date:   Tue Mar 1 15:48:07 2022 -0500
+
+    Updating git page -> bootstrap 4
+
+commit 6af51ff1c83d795a5de681c3baa0c1c522adba74
+Author: PeterRakov <prako013@uottawa.ca>
+Date:   Tue Mar 1 15:37:21 2022 -0500
+
+    Updating Aglm page -> bootstrap 4
+
+commit 31ab9f435922a0fb9d7811b58297ba95c12492e6
+Author: PeterRakov <prako013@uottawa.ca>
+Date:   Tue Mar 1 14:59:45 2022 -0500
+
+    Converting to bootstrap
+
+commit 9653262f6d06a4d4055d21c916a800e7f0b1844b
+Author: PeterRakov <prako013@uottawa.ca>
+Date:   Tue Mar 1 13:59:50 2022 -0500
+
+    Working on SQL integration
+
+commit 2b67c8e018e1b456a635ec0a8de75ec128d64774
+Author: PeterRakov <97912443+PeterRakov@users.noreply.github.com>
+Date:   Thu Feb 10 20:28:19 2022 -0500
+
+    Merge pull request #1 from professor-forward/deliverabl01
+    
+    Deliverabl02

@@ -1,0 +1,326 @@
+commit fbae762ba76dbfdfbbdd326b459339b26c0f2532
+Author: PeterRakov <prako013@uottawa.ca>
+Date:   Mon Apr 4 21:51:46 2022 -0400
+
+    Updated db script
+
+commit 51b9af1ef6da5ca0731c1944445812a85c94afd9
+Author: Peter Rakov <prako013@uottawa.ca>
+Date:   Mon Apr 4 16:47:57 2022 -0400
+
+    Working on instructions
+
+commit 441d283bdb23772ded33b4085386e1b0d571ee88
+Merge: 0e5b265 8bf1342
+Author: PeterRakov <97912443+PeterRakov@users.noreply.github.com>
+Date:   Mon Apr 4 16:05:01 2022 -0400
+
+    Merge pull request #3 from professor-forward/stage04
+    
+    Stage04
+
+commit 8bf13425ad249468ae639497d0568876eb253b58
+Author: PeterRakov <prako013@uottawa.ca>
+Date:   Mon Apr 4 16:03:46 2022 -0400
+
+    Stage 04 Backup
+
+commit bbff029e197d908126e55663bd4872e2ae892e72
+Author: PeterRakov <prako013@uottawa.ca>
+Date:   Mon Apr 4 15:49:44 2022 -0400
+
+    Working on README
+
+commit 9bfea47b39bac78925624f106922d059cc8b5652
+Author: PeterRakov <prako013@uottawa.ca>
+Date:   Mon Apr 4 15:24:15 2022 -0400
+
+    Adding deployment area
+
+commit 8e89cf9c9f6b0d2b1b73f90219af327d70a95724
+Author: PeterRakov <prako013@uottawa.ca>
+Date:   Mon Apr 4 12:20:20 2022 -0400
+
+    Updated Backups
+
+commit 7a8c0971753d5ee5d346f993b7e001a51c529ba9
+Author: PeterRakov <prako013@uottawa.ca>
+Date:   Mon Mar 28 18:45:24 2022 -0400
+
+    Restore scripts
+
+commit 39f44472be2a241566515c43c1079a02c00d5e20
+Author: PeterRakov <prako013@uottawa.ca>
+Date:   Mon Mar 28 17:25:53 2022 -0400
+
+    Added restore scripts
+
+commit 5959873e122c634f4e3a64ec697a6cceaa7a8c24
+Author: PeterRakov <prako013@uottawa.ca>
+Date:   Mon Mar 28 17:22:14 2022 -0400
+
+    Added folders for backups
+
+commit 02bc88f5a8668ab50a228646b1495fa40e647cbd
+Author: PeterRakov <prako013@uottawa.ca>
+Date:   Mon Mar 28 17:21:09 2022 -0400
+
+    Working on restore scripts
+
+commit d65cf941f9f61f57f171178a67c25bd3175be6cc
+Author: PeterRakov <prako013@uottawa.ca>
+Date:   Mon Mar 28 17:12:17 2022 -0400
+
+    Added backup script
+
+commit 697f7b2b940daf4c72d4ccd572868e3cd4367355
+Author: PeterRakov <prako013@uottawa.ca>
+Date:   Mon Mar 28 17:09:43 2022 -0400
+
+    Updated seed.sql
+
+commit f245a3a424ede72bbe32eeefd74237284b140acb
+Author: PeterRakov <prako013@uottawa.ca>
+Date:   Mon Mar 28 16:32:16 2022 -0400
+
+    Working on DB scripts
+
+commit 9d7ee4c674e70a7a477a78eedf54b961c338027c
+Author: PeterRakov <prako013@uottawa.ca>
+Date:   Mon Mar 28 16:02:48 2022 -0400
+
+    Working on SQL scripts
+
+commit 525077f819f72872b51e21aebc95fd0cf093e06c
+Author: PeterRakov <prako013@uottawa.ca>
+Date:   Mon Mar 28 16:01:31 2022 -0400
+
+    Working on deploy script
+
+commit 8d40ccc2dab9d2fa0efaf9692af6c8ae1fb6ce86
+Author: PeterRakov <prako013@uottawa.ca>
+Date:   Mon Mar 28 13:33:06 2022 -0400
+
+    Working on build script
+
+commit 408db3564bdf395d66cda31be4126475fb70930e
+Author: PeterRakov <prako013@uottawa.ca>
+Date:   Mon Mar 28 13:15:22 2022 -0400
+
+    added script
+
+commit 463dd2872186a0c4e09210c877bbaf5dc743aa9e
+Author: PeterRakov <prako013@uottawa.ca>
+Date:   Mon Mar 28 13:10:08 2022 -0400
+
+    Working on a bash script ot generate tarball
+
+commit e0f7bedc602a91c3bb6e5502e1b041b4533e0100
+Author: PeterRakov <prako013@uottawa.ca>
+Date:   Mon Mar 28 12:57:33 2022 -0400
+
+    removed tarball
+
+commit db7a58b6e280bbf0db6ffa49d1701e6296e029cf
+Author: PeterRakov <prako013@uottawa.ca>
+Date:   Mon Mar 28 12:57:02 2022 -0400
+
+    Created backup for deliverable03
+
+commit 0e5b26530b5dfce4f46297a489663a5caa84aa05
+Author: Peter Rakov <prako013@uottawa.ca>
+Date:   Mon Mar 7 10:06:42 2022 -0500
+
+    Updated README
+
+commit 5a370d3a74bd63c8d33d056a8e1bf4e9ddf3887c
+Author: Peter Rakov <prako013@uottawa.ca>
+Date:   Mon Mar 7 10:03:39 2022 -0500
+
+    Updated README for stage02
+
+commit 21db02a3e5f9dd75f49cd0f25db098cb2caf9474
+Author: Peter Rakov <prako013@uottawa.ca>
+Date:   Mon Mar 7 10:02:58 2022 -0500
+
+    Updated README for stage02
+
+commit 6180d288da85878c8e78b109920bdf120ef76dd6
+Author: Peter Rakov <prako013@uottawa.ca>
+Date:   Mon Mar 7 10:02:08 2022 -0500
+
+    Updated README for stage02
+
+commit e2127c6b624e17a08205c6793d5ff671e9f84e47
+Author: Peter Rakov <prako013@uottawa.ca>
+Date:   Mon Mar 7 09:59:53 2022 -0500
+
+    Updated README for gif
+
+commit 07e42f03f2edbd4891a9e240b76575a77f616cd5
+Author: Peter Rakov <prako013@uottawa.ca>
+Date:   Mon Mar 7 09:59:09 2022 -0500
+
+    Updated README
+
+commit 17ad9f761f60a096e86091c8635e598f70399095
+Author: Peter Rakov <prako013@uottawa.ca>
+Date:   Mon Mar 7 09:58:13 2022 -0500
+
+    Updated for the deliverable 02
+
+commit 22141141f11d5e39c13fab7af2d8cc5c4be76d84
+Merge: 9653262 ff31438
+Author: PeterRakov <97912443+PeterRakov@users.noreply.github.com>
+Date:   Thu Mar 3 10:20:50 2022 -0500
+
+    Merge pull request #2 from professor-forward/deliverable03
+    
+    Deliverable03
+
+commit ff3143878f3b2dcd924dfe8b4b96aa3687445a2d
+Author: PeterRakov <prako013@uottawa.ca>
+Date:   Thu Mar 3 10:19:42 2022 -0500
+
+    Updating README
+
+commit 4d4ab38db0636c30cb8443c5312b490750a931cb
+Author: PeterRakov <prako013@uottawa.ca>
+Date:   Thu Mar 3 10:18:17 2022 -0500
+
+    Created log.txt from git log - finished README
+
+commit b02dd24e913ff735fd0a4f2cb8aa288f63aa9251
+Author: PeterRakov <prako013@uottawa.ca>
+Date:   Thu Mar 3 10:08:59 2022 -0500
+
+    Working on the README
+
+commit 8c7cf64b1683aef7d7ca4f70863e0d11464282a6
+Author: PeterRakov <prako013@uottawa.ca>
+Date:   Thu Mar 3 09:05:12 2022 -0500
+
+    Added tar file for deployment
+
+commit 82bacb0662eed2bfe83428059d44fc7861a6d5bf
+Author: PeterRakov <prako013@uottawa.ca>
+Date:   Thu Mar 3 09:01:54 2022 -0500
+
+    php server updated
+
+commit 943eb92c50d6a0f09f325b47d0d35167175678d2
+Author: PeterRakov <prako013@uottawa.ca>
+Date:   Tue Mar 1 16:31:14 2022 -0500
+
+    php server integration
+
+commit bd9711aef74577b13c30837a3cbeb5b707ce2f2d
+Author: PeterRakov <prako013@uottawa.ca>
+Date:   Tue Mar 1 16:20:30 2022 -0500
+
+    Updating contacts page -> bootstrap 4
+
+commit e58ca8d1657355af331585f389afb8b5a7d96918
+Author: PeterRakov <prako013@uottawa.ca>
+Date:   Tue Mar 1 15:48:07 2022 -0500
+
+    Updating git page -> bootstrap 4
+
+commit 6af51ff1c83d795a5de681c3baa0c1c522adba74
+Author: PeterRakov <prako013@uottawa.ca>
+Date:   Tue Mar 1 15:37:21 2022 -0500
+
+    Updating Aglm page -> bootstrap 4
+
+commit 31ab9f435922a0fb9d7811b58297ba95c12492e6
+Author: PeterRakov <prako013@uottawa.ca>
+Date:   Tue Mar 1 14:59:45 2022 -0500
+
+    Converting to bootstrap
+
+commit 9653262f6d06a4d4055d21c916a800e7f0b1844b
+Author: PeterRakov <prako013@uottawa.ca>
+Date:   Tue Mar 1 13:59:50 2022 -0500
+
+    Working on SQL integration
+
+commit 2b67c8e018e1b456a635ec0a8de75ec128d64774
+Merge: 228f1c0 7d1bede
+Author: PeterRakov <97912443+PeterRakov@users.noreply.github.com>
+Date:   Thu Feb 10 20:28:19 2022 -0500
+
+    Merge pull request #1 from professor-forward/deliverabl01
+    
+    Deliverabl02
+
+commit 7d1bedeeefc82fe31cbac972cbac228e0fff18a5
+Author: Peter Rakov <prako013@uottawa.ca>
+Date:   Thu Feb 10 20:25:59 2022 -0500
+
+    deliverable02 final phase
+
+commit 94a46cb9e3daff320a8e0ec8828f880f72405118
+Author: Peter Rakov <prako013@uottawa.ca>
+Date:   Thu Feb 10 20:22:23 2022 -0500
+
+    Consolidated work on Design System
+
+commit d412b69df43a320b142175be2cea2e8db3431447
+Author: Peter Rakov <prako013@uottawa.ca>
+Date:   Thu Feb 10 20:11:36 2022 -0500
+
+    Consolidated work on Fonts
+
+commit 65cb94c9783843b8916807e04283b29150dd0d6d
+Author: Peter Rakov <prako013@uottawa.ca>
+Date:   Thu Feb 10 20:09:09 2022 -0500
+
+    Playing with font scaling
+
+commit b3689e787010176bc8b8e661951c915a5a71a1cc
+Author: Peter Rakov <prako013@uottawa.ca>
+Date:   Thu Feb 10 20:03:57 2022 -0500
+
+    Finding out the right color scheme
+
+commit 88ab9e76cc29addb32392b00b3e9926f1328a1fb
+Author: Peter Rakov <prako013@uottawa.ca>
+Date:   Thu Feb 10 19:29:30 2022 -0500
+
+    Playing around with footers, forms, borders and updating README
+
+commit 93a2aead987e3cabe5c076ccdc26e8bd9100503b
+Author: Peter Rakov <prako013@uottawa.ca>
+Date:   Thu Feb 10 19:09:53 2022 -0500
+
+    Playing around with articl blog round borders
+
+commit ad074d0c20aee2f8518cf4696997e1416ce8235e
+Author: Peter Rakov <prako013@uottawa.ca>
+Date:   Thu Feb 10 19:01:17 2022 -0500
+
+    Substantial work done offline - commiting changes
+
+commit 685e707760540c5d1e20ea3af45a835fca269fbd
+Author: Peter Rakov <prako013@uottawa.ca>
+Date:   Thu Feb 10 18:53:33 2022 -0500
+
+    Working with initial css documents
+
+commit 9e80c10270167b24946d413eeaa8246c2329964f
+Author: Peter Rakov <prako013@uottawa.ca>
+Date:   Thu Feb 10 18:53:06 2022 -0500
+
+    Working with initial html documents
+
+commit 228f1c03439c40c532efdadeef22a7eb76a3608a
+Author: PeterRakov <prako013@uottawa.ca>
+Date:   Sun Feb 6 13:36:58 2022 -0500
+
+    Creating repo
+
+commit 4a972d9fdd607fd71f27c6d3ab6bb6bc430673aa
+Author: Peter Rakov <prako013@uottawa.ca>
+Date:   Mon Jan 31 09:50:39 2022 -0500
+
+    README update

@@ -1,0 +1,110 @@
+/*Structure styling*/
+
+body {
+  margin: 0;
+  font-family: Ubuntu, Arial, Helvetica, sans-serif;
+  font-weight: 300;
+  background-color: #222;
+}
+
+.nav-tabs > li {
+    float:none;
+    display:inline-block;
+    zoom:1;
+}
+
+.nav-tabs {
+    text-align:center;
+}
+
+
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+
+li a:hover {
+  background-color: #222;
+}
+
+ .iconDetails {
+margin-left:2%;
+top: 50px;
+float:left;
+
+height:225px;
+width:333px; 
+} 
+
+.home-page {
+  margin: auto;
+  width:50%;
+  height:auto;
+  padding:0%;
+  margin-top: 6em;
+  /*page-break-after: always;*/
+}
+
+/*Type-Setting styles*/
+
+h4 {
+    margin:0px;
+    color: #CCCCCC;
+}
+
+h2{
+font-family: Ubuntu, Helvetica, sans-serif; font-size: 2em; 
+color: #CCCCCC;
+}
+
+h3{
+font-family: Ubuntu, Helvetica, sans-serif; 
+color: #CCCCCC;
+}
+
+
+p{
+  font-family: Ubuntu, Helvetica, sans-serif; font-size: 0.875em;
+  color: #CCCCCC;
+  line-height: 1.6
+}
+/*Footer style.*/
+footer {
+  
+  margin: auto;
+  margin-left: 0;
+  bottom: 0;
+  width: 100%; 
+  padding: 0px;
+  text-align: center;
+  color: darkgrey;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+/* Create two equal columns that floats next to each other */
+.column {
+  margin-top: 2em;
+  float: left;
+  width: 100%;
+  padding: 10px;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+  page-break-after: always;
+}
+
